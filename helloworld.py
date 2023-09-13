@@ -6,3 +6,7 @@ print("commit c4")
 print("commit c1")
 
 print("commit c2")
+
+
+
+# Rebase commit
