@@ -4,3 +4,5 @@ print("commit c3")
 
 print("commit c4")
 print("commit c1")
+
+print("commit c2")
